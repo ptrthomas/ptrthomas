@@ -13,7 +13,7 @@ Welcome ! You may be here because of the [Karate](https://github.com/intuit/kara
     </td>
     <td valign="top">
       Winner: <a href="https://twitter.com/ptrthomas/status/1318575760546746368">Open Source Contributor of the Year 2020</a> <br/>
-      LinkedIn article: <a href="https://www.linkedin.com/pulse/api-contract-testing-visual-guide-peter-thomas/">API Contract Testing</a> <br/>
+      Latest article: <a href="https://www.linkedin.com/pulse/api-contract-testing-visual-guide-peter-thomas/">API Contract Testing</a> <br/>
       YouTube video: <a href="https://youtu.be/yu3uupBZyxc">Intro to Karate</a> <br/>
       Blog posts: <a href="https://hackernoon.com/u/ptrthomas">Hacker Noon</a>    
     </td>
