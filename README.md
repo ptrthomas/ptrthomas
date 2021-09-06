@@ -1,4 +1,3 @@
-# Peter Thomas
 Hi and welcome to my GitHub profile page !
 
 You may be here because of my work on the [Karate](https://github.com/intuit/karate) test-automation framework.
