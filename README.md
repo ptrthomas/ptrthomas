@@ -1,4 +1,4 @@
-Welcome ! You may be here because of the [Karate](https://github.com/intuit/karate) test-automation framework. It is some of my best work :)
+Welcome ! You may be here because of the [Karate](https://github.com/intuit/karate) test-automation framework. It is some of my [best work](https://github.com/intuit/karate/graphs/contributors) :)
 
 <table>
   <tr>
