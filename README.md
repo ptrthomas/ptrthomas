@@ -1,6 +1,6 @@
 Welcome ! You may be here because of the [Karate](https://github.com/intuit/karate) test-automation framework. It is some of my [best work](https://github.com/intuit/karate/graphs/contributors) :)
 
-A big thanks to GitHub India and the judges who selected me as one of the [first 15 in India to receive a GitHub grant](https://twitter.com/ptrthomas/status/1437262799948828673).
+A big thanks to [GitHub](https://github.com/github) and the judges who selected me as one of the [first 15 to receive a GitHub grant](https://twitter.com/ptrthomas/status/1437262799948828673) - for Open Source in India.
 
 <table>
   <tr>
