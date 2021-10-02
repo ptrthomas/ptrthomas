@@ -1,4 +1,4 @@
-Welcome ! You may be here because of the [Karate](https://github.com/intuit/karate) test-automation framework. It is some of my [best work](https://github.com/intuit/karate/graphs/contributors) :)
+Welcome ! You may be here because of the [Karate](https://github.com/karatelabs/karate) test-automation framework. It is some of my [best work](https://github.com/karatelabs/karate/graphs/contributors) :)
 
 A big thanks to [GitHub](https://github.com/github) and the judges who selected me as one of the [first 15 to receive a GitHub grant](https://twitter.com/ptrthomas/status/1437262799948828673) - for Open Source in India.
 
@@ -7,10 +7,10 @@ A big thanks to [GitHub](https://github.com/github) and the judges who selected 
     <td valign="top">
       <p>
       Please add a ⭐️ to <br/>
-      the <a href="https://github.com/intuit/karate">Karate</a> project !
+      the <a href="https://github.com/karatelabs/karate">Karate</a> project !
       </p>
-      <a href="https://github.com/intuit/karate/stargazers">
-        <img alt="Karate" src="https://img.shields.io/github/stars/intuit/karate?logo=github&style=for-the-badge"/>
+      <a href="https://github.com/karatelabs/karate/stargazers">
+        <img alt="Karate" src="https://img.shields.io/github/stars/karatelabs/karate?logo=github&style=for-the-badge"/>
       </a>
     </td>
     <td valign="top">
