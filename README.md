@@ -28,8 +28,8 @@ A big thanks to [GitHub](https://github.com/github) and the judges who selected 
     </td>
     <td valign="top">
       <a href="https://twitter.com/ptrthomas/status/1318575760546746368">Open Source Contributor of the Year 2020</a> <br/>
-      Latest article: <a href="https://www.linkedin.com/pulse/api-contract-testing-visual-guide-peter-thomas/">API Contract Testing</a> <br/>
-      YouTube: <a href="https://youtu.be/yu3uupBZyxc">Introduction to Karate</a> <br/>
+      Latest article: <a href="https://conference.eurostarsoftwaretesting.com/is-behaviour-driven-development-bdd-right-for-api-testing/">Is BDD Right for API Testing</a> <br/>
+      YouTube: <a href="https://youtu.be/WT4gg7Jutzg">API Testing with Karate</a> <br/>
       Blog posts: <a href="https://hackernoon.com/u/ptrthomas">Hacker Noon</a> <br/>
       Projects: <a href="https://www.openhub.net/accounts/ptrthomas/projects">Open Hub</a>
     </td>
